@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/training-batch2" mode="merge"/>
+    <filter root="/content/training-batch2" mode="merge"/>
+    <filter root="/content/dam/training-batch2" mode="merge"/>
+    <filter root="/content/experience-fragments/training-batch2" mode="merge"/>
+</workspaceFilter>

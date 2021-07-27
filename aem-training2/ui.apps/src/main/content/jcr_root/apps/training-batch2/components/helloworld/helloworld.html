@@ -1,0 +1,10 @@
+
+<div data-sly-use.model="com.aem.training2.site.core.models.HelloWorldModel">
+    <h1>${model.name}</h1>
+
+    <div data-sly-list="${model.productList}">
+            <h2>${item.title}</h2>
+            <p>${item.summary}</p>
+            <h3>price : ${item.price}</h3>
+    </div>
+</div>
